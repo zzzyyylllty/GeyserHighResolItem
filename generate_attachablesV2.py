@@ -15,9 +15,7 @@ set TITLE=
 cls
 echo.
 echo ================================================================
-echo                                                                 
 echo          Bedrock Edition Large Item Generator v2.0            
-echo                                                                 
 echo ================================================================
 echo.
 echo Step 1: Preparation
